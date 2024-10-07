@@ -1,0 +1,22 @@
+/* styles/Home.module.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+  
+  .ul {
+    list-style-type: none;
+    padding: 2px;
+  }
+  
+  .li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button {
+    margin-left: 20px;
+  }
+  
